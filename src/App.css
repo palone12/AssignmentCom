@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,21 @@
   to {
     transform: rotate(360deg);
   }
+} */
+.background{
+  background-image: url('images/Home.png');
+  /* height: 110vh; */
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.history{
+  background-image: url('images/peak.png');
+  background-size: cover;
+  /* height: 110vh; */
+  background-repeat: no-repeat;
+}
+.team {
+  background-image: url('images/tab.png');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
